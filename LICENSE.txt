@@ -1,0 +1,1 @@
+The Cofactor Mapping & Analysis Program (CoMAP) is freely available for academic, non-commercial use. Commercial users should contact Dr. Travis Craddock at travis.craddock@uwaterloo.ca. Data used by CoMAP is available under the licence terms of each contributing databank (the Protein Data Bank, DAVID, and ConsensusPathDB).
